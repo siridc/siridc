@@ -9,11 +9,15 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/f8/94/19/f89419c5bc4357c8686eb7ab380ed61c.gif"  />
+<!--<img align="center" height="150" src="https://i.pinimg.com/originals/f8/94/19/f89419c5bc4357c8686eb7ab380ed61c.gif"  /> -->
 
 ###
 
 <div align="center">
+
+
+  
+## 💻 Tech Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -29,12 +33,17 @@
 
 ###
 
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+## 🌐 Connect with Me
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/873914393644109824)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/technologyhell](https://www.facebook.com/takealltheLov3))
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/technologyhell](https://www.instagram.com/camjaee/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nitishsinghslg](https://www.linkedin.com/in/dessiree-camille-pasion-305047296/))
+  
 </div>
+
 
 ###
 
