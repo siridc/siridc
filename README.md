@@ -1,7 +1,7 @@
 <h2 align="left">Hi everyone! I'm Dessiree, a BSIT student👋🏼</h2>
 
-<h6> 📚Studying Web and Mobile Application </h6>
-<h6>📝currently working on my own skills </h6>
+<h4> 📚Studying Web and Mobile Application </h4>
+<h4>📝currently working on my own skills </h4>
 
 ###
 
