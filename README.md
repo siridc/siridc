@@ -1,50 +1,39 @@
-<h2 align="left">Hi everyone! I'm Dessiree Camille, BSIT student👋🏼</h2>
+# Dessiree Camille Pasion
 
-<h4> 📚Studying Web and Mobile Application </h4>
+Web Developer | Frontend Developer | Project Manager |Admin Associate | Virtual Assistant
 
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siridc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siridc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+Cum Laude BSIT graduate from Tarlac State University specializing in web and mobile application development. Experienced in building practical, responsive web solutions, UI/UX design, quality assurance testing, and technical documentation.
 
-###
+---
 
-<h2 align="center">💻 Tech Stack</h2>
+### Technical Skills
 
+- **Languages:** JavaScript, TypeScript, Python, PHP, Java, Dart, SQL, HTML5, CSS3
+- **Frameworks & Libraries:** React, React Native, Flutter, Node.js, Tailwind CSS, Ionic
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Postman, Figma, Canva, XAMPP
+- **Practices & Disciplines:** Responsive Web Design, Mobile Development, UI/UX Design, Manual Testing, Quality Assurance, Project Management, Technical Documentation
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-</div>
+---
 
+### Education & Credentials
 
+- **Bachelor of Science in Information Technology (BSIT)**  
+  Tarlac State University (2022 – 2026) | *Cum Laude*  
+  *Specialization: Web and Mobile Application*
 
-###
+---
 
-<div align="center">
+### Contact
 
-<h2>🌐 Connect with Me</h2> 
+- **Portfolio:** [dessireecamillepasion.dev](https://dessireecamillepasion.dev)
+- **LinkedIn:** [linkedin.com/in/dessiree-camille-pasion](https://www.linkedin.com/in/dessiree-camille-pasion/)
+- **Email:** [dcampasion@gmail.com](mailto:dcampasion@gmail.com)
 
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/873914393644109824)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/takealltheLov3)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/camjaee/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dessiree-camille-pasion-305047296/)
+---
 
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/siridc/siridc/blob/output/github-snake-dark.svg)
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siridc/siridc/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siridc/siridc/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/siridc/siridc/output/github-snake-dark.svg" width="100%">
+</picture>
