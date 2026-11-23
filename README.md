@@ -1,10 +1,6 @@
 # Dessiree Camille Pasion
 
-Web Developer | Frontend Developer | Project Manager |Admin Associate | Virtual Assistant
-
-Cum Laude BSIT graduate from Tarlac State University specializing in web and mobile application development. Experienced in building practical, responsive web solutions, UI/UX design, quality assurance testing, and technical documentation.
-
----
+Web Developer
 
 ### Technical Skills
 
